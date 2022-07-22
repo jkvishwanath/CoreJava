@@ -1,1 +1,1 @@
-# CoreJavaSnippets_17
+# CoreJavaSnippets_JDK_17
