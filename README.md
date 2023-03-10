@@ -1,1 +1,1 @@
-# CoreJavaSnippets_JDK_17
+# CoreJavaSnippets version Wise
