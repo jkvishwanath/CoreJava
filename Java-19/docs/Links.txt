@@ -4,6 +4,9 @@ Java 19 Changes
 Java version wise code snippets
 https://github.com/mkyong/core-java
 
+mkyong tutorial java19 changes.
+https://mkyong.com/java/what-is-new-in-java-19/
+
 
 1.JEP 405: Record Classes to Extend Pattern Matching in Java
     https://www.infoq.com/news/2022/05/java-record-pattern/

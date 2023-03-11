@@ -1,0 +1,50 @@
+==============================================================================================================================================
+
+Read this to understand the types of categories of changes introduced in java17.
+https://www.geeksforgeeks.org/jdk-17-new-features-in-java-17/
+
+dividing them into 4 categories stuffs as follows:
+
+1Nice Developer kinds of stuff
+2.Specific developer kinds of stuff
+3.Keeping up with Apple kinds of stuff
+4.Cleaning up kinds of stuff
+
+
+https://mkyong.com/java/what-is-new-in-java-17/
+https://github.com/mkyong/core-java
+
+https://www.baeldung.com/java-17-new-features
+
+
+
+Java17 random number generation 
+
+previous way
+https://www.geeksforgeeks.org/generating-random-numbers-in-java/
+https://www.logicbig.com/how-to/java-random/different-random-classes.html
+
+New way 
+https://www.baeldung.com/java-17-random-number-generators
+https://www.logicbig.com/how-to/java-random/different-random-classes.html
+https://openjdk.org/jeps/356
+
+
+
+29687433 ticket .
+
+==============================================================================================================================================
+
+Motivation goals of each change discussed here.
+https://openjdk.org/projects/jdk/17/
+
+Only imp developer related changes are mentioned here = Standerd Java Language changes all versions mentioned in official docs of java 
+https://docs.oracle.com/en/java/javase/19/language/java-language-changes.html
+
+
+
+LIst of all specific version related changes 
+https://www.oracle.com/java/technologies/javase/17-relnote-issues.html
+
+
+==============================================================================================================================================
