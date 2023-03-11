@@ -1,5 +1,6 @@
 Java 19 Changes 
 =====================================================================================================================================
+https://openjdk.org/projects/jdk/19/
 
 Java version wise code snippets
 https://github.com/mkyong/core-java
