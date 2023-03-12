@@ -1,0 +1,25 @@
+Java 18 features
+https://openjdk.org/projects/jdk/18/
+
+
+Java 18 features - good explanation
+https://www.developer.com/java/java-18-features/
+
+https://www.happycoders.eu/java/java-18-features/
+
+mkyong
+https://mkyong.com/java/what-is-new-in-java-18/
+https://github.com/mkyong/core-java
+
+
+
+Features
+400:	UTF-8 by Default
+408:	Simple Web Server
+413:	Code Snippets in Java API Documentation
+416:	Reimplement Core Reflection with Method Handles
+417:	Vector API (Third Incubator)
+418:	Internet-Address Resolution SPI
+419:	Foreign Function & Memory API (Second Incubator)
+420:	Pattern Matching for switch (Second Preview)
+421:	Deprecate Finalization for Removal
