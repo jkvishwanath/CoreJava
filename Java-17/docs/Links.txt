@@ -1,3 +1,9 @@
 java 17 github
 https://github.com/mkyong/core-java
+https://mkyong.com/java/what-is-new-in-java-17/
+
+
+Sealed Classes in Java | Java 17 features
+https://www.youtube.com/watch?v=glvYULuaf-k
+
 
