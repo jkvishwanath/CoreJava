@@ -1,0 +1,12 @@
+https://openjdk.org/projects/jdk/16/
+
+
+
+Record classes -
+https://www.youtube.com/watch?v=pmVgs8wOk5o
+
+https://mkyong.com/java/what-is-new-in-java-16/
+https://www.happycoders.eu/java/java-16-features/
+
+
+
