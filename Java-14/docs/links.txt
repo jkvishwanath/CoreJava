@@ -1,2 +1,4 @@
 https://openjdk.org/projects/jdk/14/
 
+https://www.happycoders.eu/java/java-14-features/
+
