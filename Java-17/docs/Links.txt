@@ -7,3 +7,6 @@ Sealed Classes in Java | Java 17 features
 https://www.youtube.com/watch?v=glvYULuaf-k
 
 
+https://www.developer.com/java/java-sealed-class/
+https://www.developer.com/java/features-enhancements-java-17/
+
