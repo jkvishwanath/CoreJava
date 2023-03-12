@@ -1,0 +1,9 @@
+Text blocks
+https://www.youtube.com/watch?v=G_X0Nkmeh1g&list=PL8Wvv-dC3wjiG-yHd1jg8SmOpTcun0I53
+https://www.baeldung.com/java-text-blocks
+
+
+https://openjdk.org/projects/jdk/15/
+
+https://www.baeldung.com/java-15-new
+
