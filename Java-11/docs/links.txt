@@ -8,3 +8,15 @@ Jep 321 is about httpclient2 - But what is the diff between  http1.1 vs http2 pr
 https://www.geeksforgeeks.org/difference-between-http-2-and-http-1-1/
 https://www.cloudflare.com/learning/performance/http2-vs-http1.1/
 
+JEP 323
+https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes/lambda-var-syntax.html
+https://openjdk.org/jeps/323
+
+
+misc changes
+String changes
+1.https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes/string-changes.html
+2.https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes/collection-changes.html
+3.https://www.logicbig.com/tutorials/core-java-tutorial/java-11-changes/files-changes.html
+4.
+5.
