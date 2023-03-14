@@ -16,6 +16,7 @@
         <module>Java-15</module>
         <module>Java-14</module>
         <module>Java-13</module>
+        <module>Java-11</module>
     </modules>
 
     <properties>
