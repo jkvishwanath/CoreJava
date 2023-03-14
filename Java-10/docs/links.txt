@@ -1,0 +1,5 @@
+https://openjdk.org/projects/jdk/10/
+
+https://www.logicbig.com/tutorials/core-java-tutorial/java-10-changes.html
+https://www.baeldung.com/java-10-overview
+
