@@ -19,6 +19,8 @@
         <module>Java-11</module>
         <module>Java-10</module>
         <module>Collection_Framework</module>
+        <module>DesignPatterns</module>
+        <module>Misc</module>
     </modules>
 
     <properties>

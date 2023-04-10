@@ -1,0 +1,32 @@
+Excptions
+
+Describe the difference between unchecked and checked exceptions in Java.
+What is the difference between finally, final, and finalize in Java?
+Define try-with resource. How can you say that it differs from an ordinary try?
+Define Runtime Exception. Describe it with the help of an example.
+What is the difference between NoClassDefFoundError and ClassNotFoundException in Java?
+Can we throw an exception explicitly or manually?
+Describe the use of the throw keyword.
+Why should we clean up activities such as I/O resources in the finally block?
+Describe OutofMemoryError in exception handling.
+What is the error of  ClassCastException?
+Is there any difference between throw and throws in exception handling in Java?
+When should we use the printStackTrace() method?
+Provide me with some examples of unchecked exceptions.
+Is it illegal to keep an empty catch?
+What are the advantages of using exception handling in Java?
+Can checked exceptions occur at compiled time?
+What happens if a runtime exception occurs?
+Describe unreachable catch block error in Java.
+In which situation will you not be able to execute the finally block?
+Is it possible to throw a statement inside a static block?
+Define rethrowing.
+Define user-defined or custom exceptions in Java.
+What do you understand by a chained exception?
+What do you understand about throwables in Java?
+Mention the methods in the throwable class.
+Give me some examples of checked exceptions.
+Define NumberFormatException exception in Java.
+What do you understand by ArrayIndexOutOfBoundsException?
+Suppose there is a catch block in tune with a try block with 3 statements - 1, 2, and 3. Now, imagine that the statement is thrown in statement 2. Will there be an execution of statement 3?
+Define unreachable catch block error.
